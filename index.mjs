@@ -7,6 +7,11 @@ export const constants = {
 };
 
 // utils
-export isCrypto from './utils/isCrypto.mjs';
-export isFiat from './utils/isFiat.mjs';
-export roundCurrency from './utils/roundCurrency.mjs';
+import isCrypto from './utils/isCrypto.mjs';
+import isFiat from './utils/isFiat.mjs';
+import roundCurrency from './utils/roundCurrency.mjs';
+export const utils = {
+  isCrypto,
+  isFiat,
+  roundCurrency,
+};

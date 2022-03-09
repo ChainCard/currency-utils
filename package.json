@@ -1,6 +1,6 @@
 {
   "name": "@chaincard/currency-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library of utilities for working with fiat & crypto currencies",
   "main": "index.mjs",
   "repository": "https://github.com/cmdshepard/currency-utils",
